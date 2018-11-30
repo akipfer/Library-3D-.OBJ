@@ -10,14 +10,11 @@ This library was created for use with the Assets Flinger plugin, in order to fac
   - Plugin Shortcut in blender: CTRL + SHIFT + ALT + A
 
 # How to use
+## Tutorials
+* [Installing Plugin](https://github.com/BlenderAid/Asset-Flinger)
+* [Using the plugin]()
 
-
-### About us
-
-> We decided to create this project for the purpose of contributing to the wonderful 3D community
-> with the objectives of facilitating our modeling. I hope you can contribute as well.
-> 
-### Plugins
+### Links
 
 Alguma descrição....
 
@@ -27,5 +24,27 @@ Alguma descrição....
 | Github Project | https://github.com/akipfer/Library-3D-.OBJ|
 | Original Plugin | https://github.com/BlenderAid/Asset-Flinger |
 | Original Libary | http://files.manujarvinen.com/asset_pack_v0.1.zip |
+
+
+
+### About us
+
+> We decided to create this project for the purpose of contributing to the wonderful 3D community
+> with the objectives of facilitating our modeling. I hope you can contribute as well.
+> 
+
+### Work Partners
+
+Alguma descrição....
+
+| People | Objects created |
+| ------ | ------ |
+| DSHY1 | 01 |
+| AkipfeR | 00 |
+| You? | contribute to this project |
+
+
+
+#### Library created for Plugin Asset Flinger.
 
 
