@@ -12,7 +12,7 @@ This library was created for use with the Assets Flinger plugin, in order to fac
 # How to use
 ## Tutorials
 * [Installing Plugin](https://github.com/BlenderAid/Asset-Flinger)
-* [Using the plugin]()
+* [Using this libary]()
 
 ### Links
 
@@ -37,10 +37,10 @@ Alguma descrição....
 
 Alguma descrição....
 
-| People | Objects created |
+| Nicks | Objects created |
 | ------ | ------ |
-| DSHY1 | 01 |
-| AkipfeR | 00 |
+| [DSHY1](https://github.com/dshy1) | 01 |
+| [AkipfeR](https://github.com/akipfer) | 00 |
 | You? | contribute to this project |
 
 
